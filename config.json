@@ -1,0 +1,15 @@
+{
+    "machine": {
+        "wait": 5,
+        "piezo": 20,
+        "serial": "/dev/ttyACM0"
+    },
+    "scoreboard": {
+        "https": true,
+        "host": "demo.dascr.org",
+        "port": "443",
+        "game": "dascr",
+        "user": "dsf",
+        "pass": "only4dsf"
+    }
+}
